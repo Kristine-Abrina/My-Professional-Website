@@ -735,6 +735,21 @@ body {
     line-height: 1.8;
 }
 
+/* Portfolio page image styling */
+.portfolio-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px 5px 0 0;
+}
+
+/* Project detail page image styling */
+.project-main-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
 
 /* Project Pages */
 .project-header {
